@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World! We are Fiona and Sam! This is our attempt automatically updating our deployed page  
+          Hello World! We are Fiona and Sam! This is our attempt automatically updating our deployed page! 
         </a>
       </header>
     </div>
